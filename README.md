@@ -26,7 +26,7 @@ I am a passionate and results-oriented Computer Science student at Ynov Campus T
 ### 🌱 Problem-solving:
 - Analytical and critical thinking skills to identify and resolve complex problems
 
-### 🤝 ommunication:
+### 🤝 Communication:
 - Effective written and verbal communication skills to collaborate with team members and stakeholders
 
 ## Open to Internship Opportunities
