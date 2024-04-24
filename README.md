@@ -1,16 +1,41 @@
-<h2 align="center">👋, I'm Adan LALDY-MAQUIHA</h2>
-<h3 align="center">A computer science student in France</h3>
+<h1 align="center">👋, I'm Adan LALDY-MAQUIHA</h1>
 
-- 🌱 I am currently improving my skills in **development languages and cybersecurity**
+<h3 align="center">A computer science student from France</h3>
 
+## About Me
+I am a passionate and results-oriented Computer Science student at Ynov Campus Toulouse, currently pursuing a Master's degree in Computer Science. With a strong academic background and a hands-on approach to learning, I am proficient in a variety of programming languages.
 
-- 📫 How to reach me **adanlaldy@gmail.com**
+## Skills
 
-<h3 align="left">Languages:</h3>
-<p align="center"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a></p>
+### 🛠️ Programming Languages:
+- Python
+- HTML, CSS, JavaScript
+- C
+- C#
+- C++
+- PHP
+- SQL
+- Golang
+- Java
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://github.com/adanlaldy" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-<a href="https://www.linkedin.com/in/adan-laldy-maquiha/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> 
+### 🖥️ Software Development:
+- Agile methodologies
+- Git version control
+- Unit testing
+
+### 🌱 Problem-solving:
+- Analytical and critical thinking skills to identify and resolve complex problems
+
+### 🤝 ommunication:
+- Effective written and verbal communication skills to collaborate with team members and stakeholders
+
+## Open to Internship Opportunities
+
+I am actively seeking internship opportunities in software development where I can contribute my skills and knowledge to real-world projects. I am eager to learn from experienced professionals and gain hands-on experience in the industry.
+
+## Contact
+
+Feel free to reach out to me for any inquiries or to discuss potential internship opportunities:
+
+* Email: [adanlaldy@gmail.com](mailto:adanlaldy@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/adan-laldy-maquiha/](https://www.linkedin.com/in/adan-laldy-maquiha/)
